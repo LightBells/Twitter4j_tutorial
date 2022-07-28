@@ -1,5 +1,5 @@
-import org.twitter4j.{Twitter, TwitterException,TwitterFactory}
-import org.twitter4j.auth.{AccessToken, RequestToken}
+import twitter4j.{Twitter, TwitterException,TwitterFactory}
+import twitter4j.auth.{AccessToken, RequestToken}
 
 import java.io.{
   BufferedReader,File, IOException,
